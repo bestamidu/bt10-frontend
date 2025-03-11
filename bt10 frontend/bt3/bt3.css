@@ -1,0 +1,53 @@
+.menu {
+    width: 370px;
+    background-color: rgb(238, 238, 238);
+    height: 500px;
+}
+
+.para {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 15px;
+  
+}
+.intro img{
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.intro {
+    margin-bottom: 30px;
+    margin: 15px;
+   
+}
+ .pic1 {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+
+    }
+    .day{
+     margin: 15px;
+     opacity: 0.7;
+    }
+    .title{
+        margin: 15px;
+        font-weight: lighter;
+    }
+    .comment{
+        margin: 15px;
+        opacity: 0.7;
+    }
+    .bass {
+        border: 1px solid white;
+        width: 60px;
+        position: absolute;
+        top: 40px;
+       left: 270px;
+        background-color: rgba(31, 31, 31, 0.5);
+        color: rgb(255, 255, 255);
+        border-radius: 4px;
+        font-size: 14px;
+        padding: 5px;
+    }

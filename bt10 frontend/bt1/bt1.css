@@ -1,0 +1,23 @@
+.menu{
+    background-color: gray;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 90%;
+    margin-right: 20px;
+}
+
+.menu ul{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    list-style: none;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+.logo{
+    font-family: 'Brush script MT';
+}
